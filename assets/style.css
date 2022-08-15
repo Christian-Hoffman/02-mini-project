@@ -72,11 +72,6 @@ code {
     border-radius: 5px;
 }
 
-pre {
-    display: block;
-    text-align: left;
-}
-
 .card:hover,
 h2:hover {
     box-shadow: inset 0px 0px 8px 
